@@ -27,8 +27,17 @@ Một nhà phát triển hoàn toàn có thể sử dụng Angular để xây d�
 * [Câu hỏi Fun](#fun-questions)
 
 
-#### General Questions:
-* Bạn đã học được gì về Angular 2+ ngày hôm qua / tuần này?
-* Một số lý do bạn muốn sử dụng Angular 2+ trong dự án của mình là gì?
-* Bạn thích điều gì khi làm việc với Angular 2+ ?
-* Làm thế nào để bạn giữ cho mã Angular của mình dễ đọc và dễ bảo trì hơn?
+### General Questions:
+#### Bạn đã học được gì về Angular 2+ ngày hôm qua / tuần này?
+---
+#### Một số lý do bạn muốn sử dụng Angular 2+ trong dự án của mình là gì?
+---
+#### Bạn thích điều gì khi làm việc với Angular 2+ ?
+---
+#### Làm thế nào để bạn giữ cho mã Angular của mình dễ đọc và dễ bảo trì hơn?
+<details><summary><b>Trả Lời:</b></summary>
+<p>
+Để giữ cho các thành phần của chúng ta dễ đọc và dễ bảo trì, chúng ta nên viết một đoạn mã sạch bên trong chúng. Chúng ta nên giới hạn logic trong thành phần để đáp ứng nhu cầu của khuôn mẫu và không có gì hơn. Không cần thêm logic nghiệp vụ phức tạp nào. Nếu chúng ta cần logic bổ sung, chúng ta nên trích xuất nó vào dịch vụ.
+<p>
+</details>
+
