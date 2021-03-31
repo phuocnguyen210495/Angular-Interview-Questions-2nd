@@ -37,12 +37,12 @@ Một nhà phát triển hoàn toàn có thể sử dụng Angular để xây d�
   <p>Dễ bảo trì.</p>
   <p>Link:(https://www.grazitti.com/blog/8-proven-reasons-you-need-angular-for-your-next-development-project/)</p>
 </details>
----
+
 #### Bạn thích điều gì khi làm việc với Angular 2+ ?
 <details><summary><b>Trả Lời:</b></summary>
   <p>Link:(https://medium.com/@jeffwhelpley/why-do-developers-love-angular-7690ba927c92)</p>
 </details>
----
+
 #### Làm thế nào để bạn giữ cho mã Angular của mình dễ đọc và dễ bảo trì hơn?
 <details><summary><b>Trả Lời:</b></summary>
 <p>
